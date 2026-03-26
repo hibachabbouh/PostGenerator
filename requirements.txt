@@ -1,0 +1,11 @@
+datasets
+pandas
+groq
+python-dotenv
+emoji
+sentence_transformers
+faiss-cpu
+fastapi
+uvicorn
+streamlit
+requests
